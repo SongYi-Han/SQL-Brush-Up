@@ -2,6 +2,7 @@
 # How to set up
 
 reference: 
+* https://www.timescale.com/blog/how-to-install-psql-on-mac-ubuntu-debian-windows/ : how to install and use psql
 * https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/ : how to load data in postgres
 
 ## Set up postgres with pdAdmin locally
